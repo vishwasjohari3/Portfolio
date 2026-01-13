@@ -509,3 +509,7 @@ select:focus {
   }
 }
 
+/* Photography section button spacing */
+.tm-photo-btn {
+  margin-top: -15px;   /* pehle zyada hogi, isse kam ho jayegi */
+}
