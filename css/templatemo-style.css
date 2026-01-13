@@ -530,3 +530,34 @@ select:focus {
   }
 }
 
+/* Desktop: image fills height of text column */
+@media (min-width: 992px) {
+  .about-section {
+    align-items: stretch; /* 👈 key line */
+  }
+
+  .about-img-wrapper {
+    height: 100%;
+    display: flex;
+    align-items: center; /* vertical centering */
+  }
+
+  .about-img-wrapper img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+  }
+}
+
+/* Mobile: image smaller + spacing */
+@media (max-width: 991px) {
+  .about-img-wrapper {
+    max-width: 85%;
+    margin: 0 auto 2.5rem auto; /* 👈 gap before Contact Me */
+  }
+
+  .about-img-wrapper img {
+    border-radius: 6px;
+  }
+}
+
