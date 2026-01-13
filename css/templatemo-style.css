@@ -499,3 +499,13 @@ select:focus {
   border-radius: 12px;
 }
 
+@media (max-width: 767px) {
+  .about-section .tm-flex-center {
+    padding-bottom: 12px !important;
+  }
+
+  .about-section p:last-child {
+    margin-bottom: 8px;
+  }
+}
+
