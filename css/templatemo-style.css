@@ -513,3 +513,20 @@ select:focus {
 .tm-photo-btn {
   margin-top: -15px;   /* pehle zyada hogi, isse kam ho jayegi */
 }
+
+/* Mobile-only fixes for About section image */
+@media (max-width: 768px) {
+
+  /* Control image size */
+  .about-section img {
+    max-height: 440px;     /* 👈 adjust 260–320 if needed */
+    width: 80%;
+    object-fit: cover;
+  }
+
+  /* Add space after image */
+  .about-section {
+    padding-bottom: 50px;
+  }
+}
+
