@@ -520,7 +520,7 @@ select:focus {
   /* Control image size */
   .about-section img {
     max-height: 440px;     /* 👈 adjust 260–320 if needed */
-    width: 80%;
+    width: 100%;
     object-fit: cover;
   }
 
@@ -560,5 +560,6 @@ select:focus {
     border-radius: 6px;
   }
 }
+
 
 
