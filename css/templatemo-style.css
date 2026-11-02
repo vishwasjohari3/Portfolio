@@ -686,19 +686,19 @@ select:focus {
 }
 
 .work-heading {
-    color: #7d443b;
+    color: #be2c38;
 }
 
 .work-btn {
-    background-color: #7d443b;
-    border-color: #7d443b;
+    background-color: #be2c38;
+    border-color: #be2c38;
     color: white;
 }
 
 .work-btn:hover,
 .work-btn:focus {
-    background-color: #A86F55;
-    border-color: #A86F55;
+    background-color: #ED2939;
+    border-color: #ED2939;
     color: white;
 }
 
@@ -720,7 +720,7 @@ select:focus {
 }
 
 .tm-hero-color {
-    background-color: #7d443b;
+    background-color: #be2c38;
 }
 
 .youtube-panel {
@@ -731,12 +731,12 @@ select:focus {
 }
 
 .youtube-heading {
-    color: #C6011F;
+    color: #be2c38;
 }
 
 .youtube-btn {
-    background-color: #C6011F;
-    border-color: #C6011F;
+    background-color: #be2c38;
+    border-color: #be2c38;
     color: white;
 }
 
@@ -749,19 +749,19 @@ select:focus {
 
 /* Photography Section */
 .photography-heading {
-    color: #7d443b;
+    color: #be2c38;
 }
 
 .photo-btn {
-    background-color: #7d443b;
-    border-color: #7d443b;
+    background-color: #be2c38;
+    border-color: #be2c38;
     color: #ffff;
 }
 
 .photo-btn:hover,
 .photo-btn:focus {
-    background-color: #A86F55;
-    border-color: #A86F55;
+    background-color: #ED2939;
+    border-color: #ED2939;
     color: #ffff;
 }
 
@@ -778,22 +778,22 @@ select:focus {
 
 /* Photography Section */
 .photography-heading {
-    color: #7d443b;
+    color: #be2c38;
 }
 
 .photo-btn {
-    background-color: #7d443b;
-    border-color: #7d443b;
+    background-color: #be2c38;
+    border-color: #be2c38;
     color: #ffff;
 }
 
 .photo-btn:hover,
 .photo-btn:focus {
-    background-color: #A86F55;
-    border-color: #A86F55;
+    background-color: #ED2939;
+    border-color: #ED2939;
     color: #ffff;
 }
 
 .custom-footer {
-    background-color: #7d443b;
+    background-color: #be2c38;
 }
